@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:BrightTALK Event
+PRODID:-//BrightTALK//NONSGML BrightTALK Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:https://www.brighttalk.com/webcast/17826/483424
+DTSTAMP:20210428T201200Z
+ORGANIZER:MAILTO:no-reply@webinars.gartner.com
+LOCATION:BrightTALK
+URL:https://www.gartner.com/en/webinars?commId=483424&channelId=17826&
+ srcId=1-4582955171&ref=btem&&utm_campaign=outlook-calendar&utm_medium=
+ calendar&utm_source=brighttalk-embed
+DTSTART:20210511T143000Z
+DTEND:20210511T153000Z
+SUMMARY:Live webcast: Virtual Briefing: Amplify Digital Success With D
+ ata & Analytics Architecture
+DESCRIPTION:Click here to attend: https://www.gartner.com/en/webinars?
+ commId=483424&channelId=17826&srcId=1-4582955171&ref=btem&&utm_campaig
+ n=outlook-calendar&utm_medium=calendar&utm_source=brighttalk-embed\n\n
+ Presenter: Soyeb Barot\n\nSuccessful digitalization requires a flexibl
+ e\, cohesive data management and analytics architecture that enables d
+ iverse data sources and complementary analytic solutions to operate to
+ gether. Organizations need a value-driven\, iterative framework that b
+ uilds on the knowledge acquired at each stage of the process while int
+ egrating new and emerging technologies. This invitation-only\, complim
+ entary session looks at what CIOs and the technical professionals who 
+ help them execute their digital strategies need to make their digital 
+ initiatives successful. We will explore a step-by-step methodology tha
+ t can create a comprehensive architecture to support data and analytic
+ s initiatives while recognizing business value within your organizatio
+ n. You also will hear from a data leader on the digital challenges the
+ y faced and the steps they took to overcome them.\n• Explore a step-by
+ -step methodology to create a comprehensive data & analytics architect
+ ure\n• Enable the interoperation of diverse data sources and complemen
+ tary analytic solutions\n• Discover how Gartner for Technical Professi
+ onals can strengthen your digitalization initiatives\nContact us @ gar
+ tnerwebinars@gartner.com with questions about viewing this virtual bri
+ efing
+SEQUENCE:1620027117
+END:VEVENT
+END:VCALENDAR
